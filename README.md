@@ -1,16 +1,21 @@
-# 👨‍🦱 Arthur Albuquerque
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=147DFC&center=true&vCenter=true&width=435&lines=Arthur+Albuquerque" alt="Typing SVG" /></a>
+</p>
 
-**`Desenvolvedor em Formação`**
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCFCFC&background=147DFC&center=true&vCenter=true&width=435&lines=Bem+Vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
 
-Olá! Eu sou o João Arthur, moro em Recife e estou no começo da minha jornada em Análise e Desenvolvimento de Sistemas na UNIT PE.
+</p>
+
+## Introdução
+
+Olá! Eu sou o João Arthur, moro em Recife e estou no começo da minha jornada em Análise e Desenvolvimento de Sistemas na UNIT.
 
 Minha base é em gestão, mas me apaixonei pelo mundo do código e hoje estou mergulhado no aprendizado de Front-end e Back-end. Estou explorando tecnologias como HTML, CSS, JavaScript, Python e Java, sempre buscando entender como criar aplicações completas do zero.
 
 Também curto muito a parte de UI/UX Design e análise de dados, então meu foco atual é aprender a construir interfaces que sejam bonitas e funcionais. Estou animado para aprender cada vez mais e colocar a mão na massa em novos projetos!
 
----
-
-### 🤖 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -72,9 +77,7 @@ Também curto muito a parte de UI/UX Design e análise de dados, então meu foco
 <br/>
 <br/>
 
----
-
-### 📊 Estatísticas
+## Estatísticas
 
 <p>
   <img 
