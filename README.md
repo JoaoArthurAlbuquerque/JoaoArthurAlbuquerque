@@ -1,12 +1,11 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=147DFC&center=true&vCenter=true&width=435&lines=Arthur+Albuquerque" alt="Typing SVG" /></a>
+  <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=147DFC&center=true&vCenter=true&width=435&lines=Arthur+Albuquerque" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCFCFC&background=147DFC&center=true&vCenter=true&width=435&lines=Bem+Vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
-
+  <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCFCFC&background=147DFC&center=true&vCenter=true&width=435&lines=Bem+Vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
 </p>
-
+      
 ## Introdução
 
 Olá! Eu sou o João Arthur, moro em Recife e estou no começo da minha jornada em Análise e Desenvolvimento de Sistemas na UNIT.
