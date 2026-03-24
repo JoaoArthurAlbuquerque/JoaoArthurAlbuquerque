@@ -17,9 +17,6 @@ Minha base é em gestão, mas me apaixonei pelo mundo do código e hoje estou me
 
 Também curto muito a parte de UI/UX Design e análise de dados, então meu foco atual é aprender a construir interfaces que sejam bonitas e funcionais. Estou animado para aprender cada vez mais e colocar a mão na massa em novos projetos!
 
-</br>
-</br>
-
 ## Linguagens e Tecnologias
 
 <img 
