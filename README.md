@@ -5,7 +5,10 @@
 <p align="center">
   <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCFCFC&background=147DFC&center=true&vCenter=true&width=435&lines=Bem+Vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
 </p>
-      
+
+</br>
+</br>
+
 ## Biografia
 
 Olá! Eu sou o João Arthur, moro em Recife e estou no começo da minha jornada em Análise e Desenvolvimento de Sistemas na UNIT.
@@ -13,6 +16,9 @@ Olá! Eu sou o João Arthur, moro em Recife e estou no começo da minha jornada 
 Minha base é em gestão, mas me apaixonei pelo mundo do código e hoje estou mergulhado no aprendizado de Front-end e Back-end. Estou explorando tecnologias como HTML, CSS, JavaScript, Python e Java, sempre buscando entender como criar aplicações completas do zero.
 
 Também curto muito a parte de UI/UX Design e análise de dados, então meu foco atual é aprender a construir interfaces que sejam bonitas e funcionais. Estou animado para aprender cada vez mais e colocar a mão na massa em novos projetos!
+
+</br>
+</br>
 
 ## Linguagens e Tecnologias
 
