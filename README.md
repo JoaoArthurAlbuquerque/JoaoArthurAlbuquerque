@@ -6,7 +6,7 @@
   <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCFCFC&background=147DFC&center=true&vCenter=true&width=435&lines=Bem+Vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
 </p>
       
-## Introdução
+## Biografia
 
 Olá! Eu sou o João Arthur, moro em Recife e estou no começo da minha jornada em Análise e Desenvolvimento de Sistemas na UNIT.
 
