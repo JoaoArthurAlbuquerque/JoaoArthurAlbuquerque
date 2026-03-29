@@ -11,7 +11,7 @@
 
 ## Biografia
 
-Olá! Eu sou o João Arthur, moro em Recife e estou no começo da minha jornada em Análise e Desenvolvimento de Sistemas na UNIT.
+Olá! Eu sou o Arthur, moro em Recife e estou no começo da minha jornada em Análise e Desenvolvimento de Sistemas na UNIT.
 
 Minha base é em gestão, mas me apaixonei pelo mundo do código e hoje estou mergulhado no aprendizado de Front-end e Back-end. Estou explorando tecnologias como HTML, CSS, JavaScript, Python e Java, sempre buscando entender como criar aplicações completas do zero.
 
